@@ -8,10 +8,7 @@ Technologies: Python, Javascript, Flask, React, PostgreSQL, MongoDB, HTML/CSS, G
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Road Trip Planner**            | Web app utilising Google Maps APIs to return a road trip itinerary based on start, end and intermediate locations provided by the user. | MongoDB, Express, React, Node.js |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+
 
 
 
