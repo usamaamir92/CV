@@ -15,15 +15,6 @@ Technologies: Python, Javascript, Flask, React, PostgreSQL, MongoDB, HTML/CSS, G
 | **Makersbnb** | Airbnb clone with user functionality, allowing users to list, request and book properties. | Python, Flask, PostgreSQL, HTML/CSS              |
 
 
-
-
-  **Acebook Wind**               Facebook clone with user account functionality,       MongoDB, Express,
-                                 allowing users to create posts, add comments,         React, Node.js
-                                 like/unlike posts  and view account details.
-| ---------------------------- | ----------------------------------------------------| ----------------- |
-  **Makersbnb**                  Airbnb clone with user account functionality,         Python, Flask, 
-                                 allowing users to list, request and book properties.  PostgreSQL, 
-                                                                                       HTML/CSS
                                                                                        
 ## Work Experience
 
