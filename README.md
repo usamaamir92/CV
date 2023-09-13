@@ -6,11 +6,14 @@ Currently continuing to hone my skills through learning new technologies and pur
 
 Technologies: Python, Javascript, Flask, React, PostgreSQL, MongoDB, HTML/CSS, Git, GitHub.
 
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Road Trip Planner**            | Web app utilising Google Maps APIs to return a road trip itinerary based on start, end and intermediate locations provided by the user. | MongoDB, Express, React, Node.js |
+| **Acebook Wind**            | Facebook clone with user account functionality, allowing users to create posts, add comments, like/unlike posts  and view account details. | MongoDB, Express, React, Node.js |
+| **Makersbnb**            | Airbnb clone with user account functionality, allowing users to list, request and book properties. | Python, Flask, PostgreSQL, HTML/CSS |
 
 
 
@@ -23,7 +26,6 @@ Senior Civil Engineer/Project Manager
 - Extensive analytical and problem-solving skills demonstrated through 7+ years of experience as a civil design engineer.
 - Managed a multi-million pound HS2 work packages and teams of up to 30 engineers and ensured timely and high quality delivery projects.
 - Proven communication skills through chairing regular meetings with clients and stakeholders to understand requirements, manage expectations and resolve conflicts.
-
 
 
 ## Skills
