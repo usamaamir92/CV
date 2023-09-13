@@ -27,7 +27,7 @@ Technologies: Python, Javascript, Flask, React, PostgreSQL, MongoDB, HTML/CSS, G
 Senior Civil Engineer/Project Manager
 
 - Extensive analytical and problem-solving skills demonstrated through 7+ years of experience as a civil design engineer.
-- Managed a multi-million pound HS2 work packages and teams of up to 30 engineers and ensured timely and high quality delivery projects.
+- Managed multi-million pound HS2 work packages and teams of up to 30 engineers and ensured timely and high quality delivery projects.
 - Proven communication skills through chairing regular meetings with clients and stakeholders to understand requirements, manage expectations and resolve conflicts.
 
 
@@ -40,21 +40,15 @@ Senior Civil Engineer/Project Manager
 - These skills carry over very well into software engineering, allowing me to contribute to devising solutions and using my problem solving skills for debugging.
 
 
+#### Attention to detail
+- Attention to detail was a vital skill both as an engineer and as a project manager. As an engineer I ensured small details on design drawings were accurate as any mistakes could have significant health and safety impacts during and after construction. Attention to detail was also important as a project manager as I was responsible for reporting accurate cost and programme updates to the client on a regular basis.
+- This is an essential skill for writing clean and error-free code.
+
+
 #### Communication and Teamwork
 - As a project manager I have vast experience in communcating with clients and external stakeholders to fully understand project requirements, communicate any issues effectively and resolve conflicts to enable a positive outcome for everyone.
 - I have also used my communication skills to lead teams of engineers to meet deadlines and keep team morale high through regular meetings and fostering an open culture.
 - Many projects also required public consultations which involved presenting solutions to the general public and breaking down technical concepts to non-technical audiences in a manner such that they were able to understand. 
-
-
-#### Another skill
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
-
 
 
 ## Education
