@@ -8,22 +8,21 @@ Technologies: Python, Javascript, Flask, React, PostgreSQL, MongoDB, HTML/CSS, G
 
 ## Projects
 
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Road Trip Planner**            | Web app utilising Google Maps APIs to return a road trip itinerary based on start, end and intermediate locations provided by the user. | MongoDB, Express, React, Node.js |
+| **Acebook Wind** | Facebook clone with user account functionality, allowing users to create posts, add comments, like/unlike posts and view account details. | MongoDB, Express, React, Node.js              |
+| **Makersbnb** | Airbnb clone with user functionality, allowing users to list, request and book properties. | Python, Flask, PostgreSQL, HTML/CSS              |
 
 
 
 
-| Name                         | Description                                         | Tech/tools        |
-| ---------------------------- | ----------------------------------------------------| ----------------- |
-  **Road Trip Planner**          Web app utilising Google Maps APIs to return a road   MongoDB, Express,
-                                 trip itinerary based on start, end and intermediate   React, Node.js
-                                 locations provided by the user.       
-| ---------------------------- | ----------------------------------------------------| ----------------- |
   **Acebook Wind**               Facebook clone with user account functionality,       MongoDB, Express,
                                  allowing users to create posts, add comments,         React, Node.js
                                  like/unlike posts  and view account details.
 | ---------------------------- | ----------------------------------------------------| ----------------- |
   **Makersbnb**                  Airbnb clone with user account functionality,         Python, Flask, 
-                                 allowing users to list, request and book properties.  PostgresQL, 
+                                 allowing users to list, request and book properties.  PostgreSQL, 
                                                                                        HTML/CSS
                                                                                        
 ## Work Experience
