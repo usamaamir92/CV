@@ -8,12 +8,11 @@ Technologies: Python, Javascript, Flask, React, PostgreSQL, MongoDB, HTML/CSS, G
 
 ## Projects
 
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Road Trip Planner**            | Web app utilising Google Maps APIs to return a road trip itinerary based on start, end and intermediate locations provided by the user. | MongoDB, Express, React, Node.js |
+| **Something else worked on** | A webapp to do y. | Ruby              |
 
-| Project Name            | Description                                                                                        | Technologies Used                 |
-|-------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------|
-| Road Trip Planner       | Web app utilizing Google Maps APIs to return a road trip itinerary based on user-provided locations | MongoDB, Express, React, Node.js  |
-| Acebook Wind            | Facebook clone with user account functionality, including posts, comments, likes, and user profiles | MongoDB, Express, React, Node.js  |
-| Makersbnb               | Airbnb clone with user account functionality for property listing, booking, and requests           | Python, Flask, PostgresQL, HTML/CSS |
 
 
 | Name                         | Description                                         | Tech/tools        |
