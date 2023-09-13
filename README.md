@@ -8,6 +8,7 @@ Technologies: Python, Javascript, Flask, React, PostgreSQL, MongoDB, HTML/CSS, G
 
 
 
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -31,10 +32,14 @@ Senior Civil Engineer/Project Manager
 
 
 
+
 ## Skills
 
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+- As a project manager I have vast experience of communcating with clients and external stakeholders to fully understand project requirements, communicate any issues effectively and resolve conflicts to enable a positive outcome for everyone.
+- I have also used my communication skills to lead teams of engineers to meet deadlines and keep team morale high through regular meetings and fostering an open culture.
+- Many projects also required public consultations which involved presenting our solutions and breaking down technical concepts to non-technical audiences in a manner such that they were able to understand. 
+
 
 #### Another skill
 
@@ -44,6 +49,7 @@ I honed my communication skills while completing my thesis at university, which 
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Another skill
+
 
 
 
