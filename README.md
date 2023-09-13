@@ -27,7 +27,7 @@ Technologies: Python, Javascript, Flask, React, PostgreSQL, MongoDB, HTML/CSS, G
 Senior Civil Engineer/Project Manager
 
 - Extensive analytical and problem-solving skills demonstrated through 7+ years of experience as a civil design engineer.
-- Managed multi-million pound HS2 work packages and teams of up to 30 engineers and ensured timely and high quality delivery projects.
+- Managed multi-million pound HS2 work packages and teams of up to 30 engineers and ensured timely and high quality delivery of projects.
 - Proven communication skills through chairing regular meetings with clients and stakeholders to understand requirements, manage expectations and resolve conflicts.
 
 
