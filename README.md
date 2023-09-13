@@ -17,15 +17,14 @@ Technologies: Python, Javascript, Flask, React, PostgreSQL, MongoDB, HTML/CSS, G
                                                                                        
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Ramboll/WSP** (Sep 2015 - Present)  
+Senior Civil Engineer/Project Manager
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Extensive analytical and problem-solving skills demonstrated through 7+ years of experience as a civil design engineer.
+- Managed a multi-million pound HS2 work packages and teams of up to 30 engineers and ensured timely and high quality delivery projects.
+- Proven communication skills through chairing regular meetings with clients and stakeholders to understand requirements, manage expectations and resolve conflicts.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
 
 ## Skills
 
