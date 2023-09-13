@@ -35,14 +35,18 @@ Senior Civil Engineer/Project Manager
 
 ## Skills
 
-#### Communication
-- As a project manager I have vast experience of communcating with clients and external stakeholders to fully understand project requirements, communicate any issues effectively and resolve conflicts to enable a positive outcome for everyone.
+#### Analytical Thinking and Problem Solving
+- As a civil design engineer I have experience in extracting project requirements from a client brief, breaking down the project into manageable chunks and analysing complex problems to devise effective solutions with measurable positive outcomes. An example of this is when I contributed to the design of a new motorway junction which reduced journey times by 10% whlie also reducing net carbon emissions.
+- These skills carry over very well into software engineering, allowing me to contribute to devising solutions and using my problem solving skills for debugging.
+
+
+#### Communication and Teamwork
+- As a project manager I have vast experience in communcating with clients and external stakeholders to fully understand project requirements, communicate any issues effectively and resolve conflicts to enable a positive outcome for everyone.
 - I have also used my communication skills to lead teams of engineers to meet deadlines and keep team morale high through regular meetings and fostering an open culture.
-- Many projects also required public consultations which involved presenting our solutions and breaking down technical concepts to non-technical audiences in a manner such that they were able to understand. 
+- Many projects also required public consultations which involved presenting solutions to the general public and breaking down technical concepts to non-technical audiences in a manner such that they were able to understand. 
 
 
 #### Another skill
-
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
