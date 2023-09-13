@@ -70,6 +70,7 @@ I honed my communication skills while completing my thesis at university, which 
 - Further Mathematics (A)
 - Physics (A)
 
+
 ## Hobbies
 
 - Competitive Powerlifter and keen traveller
