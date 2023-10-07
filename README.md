@@ -2,7 +2,7 @@
 
 Ex-civil engineer/accredited project manager and software engineering bootcamp graduate seeking a junior software engineer role. Being actively involved in managing automation technologies within the civil engineering industry, I realised the profound impact of technology across the industry and this ignited my interest in transitioning to a career in the technology sector.
 
-Since completing the Makers bootcamp I have returned to my previous employer and am continuing to hone my skills through working with various departments in the company to develop tools to automate processes using my newly acquired skills, and pursuing further personal projects, I am keen to use the analytical, team working and mathematical abilities developed throughout the bootcamp and my previous career to make a meaningful impact as a software engineer.
+Since completing the Makers bootcamp I have returned to my previous employer and am continuing to hone my skills through pursuing further personal projects and working with various departments in the company to develop tools to automate processes using my newly acquired skills. I am keen to use the analytical, team working and mathematical abilities developed throughout the bootcamp and my previous career to make a meaningful impact as a software engineer.
 
 Technologies: Python, Javascript, Flask, React, PostgreSQL, MongoDB, HTML/CSS, Git, GitHub.
 
